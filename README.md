@@ -1,4 +1,5 @@
 
+see also [Danfoss Ally support](https://www.danfoss.com/en/products/dhs/smart-heating/smart-heating/danfoss-ally/danfoss-ally-support/#tab-software)
 
 | version | file date | type | original filename | archived download |
 | ------- | --------- | ---- | ----------------- | ----------------- |
