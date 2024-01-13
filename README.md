@@ -3,6 +3,7 @@ see also [Danfoss Ally support](https://www.danfoss.com/en/products/dhs/smart-he
 
 | version | ver | file date | type | original filename | archived download | [zigbee-OTA](https://github.com/Koenkk/zigbee-OTA) |
 | ------- | --- | --------- | ---- | ----------------- | ----------------- | --- |
+| v1.02 |  | 2020-??-?? | firmware | _unknown_ | _unknown_ |
 | v1.08 | 264 | 2020-10-08[^1] | firmware | 1246-0100-01080108.0002_(DF4ECCE1).ota | [Download](https://github.com/SimpleUserHA/DanfosseTRV/raw/469126558d8d5152a1f8b346174c96896ddd184e/Danfoss%20Ally%20Radiator%20Thermostat%201.08%20OTA%20file%2008102020.zip) | [4200cb7](https://github.com/Koenkk/zigbee-OTA/commit/4200cb763a43c3996f8abb5f6355ce4bda0c92b1) |
 | v1.08 |  | 2020-12-16[^2] | spec |  | [Download](https://github.com/SimpleUserHA/DanfosseTRV/raw/d8aea0e87953d726e41f1c60ed6805e91b24e8c6/Danfoss%20Ally%20Radiator%20Thermostat%201.08%20Zigbee%20Cluster%20Specifications%2016122020.pdf) | |
 | v1.12 |  | 2021-04-09[^3] | spec | [AM375549618098en-000101.pdf](https://assets.danfoss.com/documents/176987/AM375549618098en-000101.pdf) | [Download](https://github.com/SimpleUserHA/DanfosseTRV/raw/cf4b617bb6d2f09c7994700bc3bdfaa96a737ff5/Danfoss%20Ally%20Radiator%20Thermostat%201.12%20Zigbee%20Cluster%20Specifications%2009042021.pdf) |
