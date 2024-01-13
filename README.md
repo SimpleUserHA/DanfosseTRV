@@ -30,3 +30,5 @@ Latest Official FW Releases[^6]:
 Latest Official FW Releases[^7]:
 - Danfoss Ally Radiator Thermostat PSoC4 with Image Type ID 0x0100: **01.28**
 - Danfoss Ally Radiator Thermostat PSoC6 with Image Type ID 0x0120: **00.28**
+
+Image taken from: https://assets.danfoss.com/photos/147394/ID354435490962-0101.jpg
